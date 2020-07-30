@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  background-color: white;
+  color: #acacac;
+  text-align: center;
+}
+
+section {
+  margin: 20px auto;
+  padding: 5% 10%;
+}
+
+.sign-in {
+  margin: 10px;
+}
